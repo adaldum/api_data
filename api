@@ -1,0 +1,23 @@
+api_url="http://127.0.0.1:5000/data"
+def get_number_of_jobs_T(technology):
+    [{"Job Title":
+
+    "Job Experience Required":
+
+    "Key Skills":
+
+    "Role Category":
+
+    "Location":
+
+    "Functional Area":
+
+    "Industry":
+
+    "Role":}]
+    #your code goes here
+    return technology,number_of_jobs
+    
+    
+    get_number_of_jobs_T("Python")
+    #getting error, need help
